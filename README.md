@@ -1,1 +1,1 @@
-# S-N_PythonStudy
+# S&N Python Study
