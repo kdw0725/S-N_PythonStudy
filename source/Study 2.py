@@ -10,6 +10,9 @@ def coffee():
 def listmul():
     list1 = ["하나","둘","셋"]
     list2 = ["양수","한자리수"]
+    for i in range (len(list1)):
+        for j in range(len(list2)):
+            print(list1[i],list2[j])
 
 if __name__ == '__main__':
-    coffee()
+    listmul()
